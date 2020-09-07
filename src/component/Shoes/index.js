@@ -45,4 +45,4 @@ const styles = StyleSheet.create({
   shoesText: {
     fontSize: 16
   }
-})
+});
